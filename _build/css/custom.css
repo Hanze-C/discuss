@@ -95,7 +95,7 @@ div.MorePager a,div.MorePager a:link,div.MorePager a:hover,div.MorePager a:activ
 	background:#b0f0b0;
 	display:inline;
 	font-weight:700;
-	color:#484;
+	color:#39c5bb;
 	text-decoration:none;
 	padding:3px 10px;
 	line-height:2.6;
@@ -116,7 +116,7 @@ div.Tabs li a span{
 	-webkit-border-radius:3px;
 	-moz-border-radius:3px;
 	font-weight:400;
-	background:#484;
+	background:#39c5bb;
 	color:#eaf4fd;
 	margin:0 0 0 4px
 }
@@ -291,7 +291,7 @@ div.Headings div.MetaHeading{
   border:1px solid #aea;
   border-radius:2px;
   background:#b0f0b0;
-  color:#484
+  color:#39c5bb
 };
 
 .react-tabs {
